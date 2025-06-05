@@ -1,0 +1,38 @@
+!SESSION 2025-03-17 19:56:56.782 -----------------------------------------------
+eclipse.buildId=4.31.0.20240307-1200
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2025-03-17 19:56:58.270
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-03-17 19:57:04.028
+!MESSAGE Logback config file: C:\Users\user\Desktop\capstone\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.0.20240217-1525.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2025-03-17 19:57:07.463
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\user'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-03-17 20:04:43.534
+!MESSAGE The POM for com.codenameone:codenameone-javase:jar:7.0.36 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-03-17 20:04:45.262
+!MESSAGE The POM for com.codenameone:codenameone-javase:jar:7.0.36 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-03-17 20:04:46.868
+!MESSAGE The POM for com.codenameone:codenameone-javase:jar:7.0.36 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2025-03-17 20:04:47.103
+!MESSAGE Status ERROR: org.eclipse.equinox.p2.discovery code=0 Failed to discover all connectors. children=[Status ERROR: org.eclipse.equinox.p2.discovery code=0 M2ERemoteBundleDiscoveryStrategy failed with an error org.eclipse.equinox.p2.core.ProvisionException: An error occurred while downloading https://github.com/eclipse-m2e/m2e-discovery-catalog/releases/download/2.x/catalog-2.x.xml. The cache file C:\Users\user\Desktop\capstone\.metadata\.plugins\org.eclipse.equinox.p2.discovery.compatibility\cache\downloading\discovery554145892 could not be renamed to C:\Users\user\Desktop\capstone\.metadata\.plugins\org.eclipse.equinox.p2.discovery.compatibility\cache\discovery554145892.]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-03-17 20:13:53.179
+!MESSAGE The POM for com.codenameone:codenameone-javase:jar:7.0.36 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-03-17 20:13:54.189
+!MESSAGE The POM for com.codenameone:codenameone-javase:jar:7.0.36 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details

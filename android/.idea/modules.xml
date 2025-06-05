@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/android.iml" filepath="$PROJECT_DIR$/.idea/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/target/codenameone/antProject/dist/android-build/Grub/app/src/androidTest/androidTest.iml" filepath="$PROJECT_DIR$/target/codenameone/antProject/dist/android-build/Grub/app/src/androidTest/androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/target/codenameone/antProject/dist/android-build/Grub/app/src/test/test.iml" filepath="$PROJECT_DIR$/target/codenameone/antProject/dist/android-build/Grub/app/src/test/test.iml" />
+    </modules>
+  </component>
+</project>
