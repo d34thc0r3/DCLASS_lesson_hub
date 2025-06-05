@@ -9,35 +9,35 @@
 ### 🔐 회원가입 및 로그인 화면 (`mainView.png`)
 UI 재구성과 한글화 적용을 통해 기존 영어 기반 화면을 한국어 중심으로 수정하였습니다.
 
-<img src="screenshots/mainView.png" style="width: 200px;">
+<img src="screenshots/mainView.png" style="width: 250px;">
 
 ---
 
 ### 🏠 홈 화면 (`homeView.png`)
 로그인한 사용자 정보를 상단에 표시하며, 전체 UI를 한글화 및 직관적으로 리디자인하였습니다.
 
-<img src="screenshots/homeView.png" style="width: 200px;">
+<img src="screenshots/homeView.png" style="width: 250px;">
 
 ---
 
 ### 📝 레슨 작성 화면 (`writeView.png`)
 기존 음식 주문 작성 화면을 완전히 제거하고, 사용자 교육 콘텐츠 등록을 위한 레슨 작성 폼을 새로 구현하였습니다.
 
-<img src="screenshots/writeView.png" style="width: 200px;">
+<img src="screenshots/writeView.png" style="width: 250px;">
 
 ---
 
 ### 🎵 음악 카테고리 레슨 리스트 (`musicCategory.png`)
 카테고리 분류 체계 도입 이후, 음악 관련 더미 레슨 데이터를 생성하여 리스트에 반영하였습니다.
 
-<img src="screenshots/musicCategory.png" style="width: 200px;">
+<img src="screenshots/musicCategory.png" style="width: 250px;">
 
 ---
 
 ### 🎮 게임 카테고리 레슨 리스트 (`gameCategory.png`)
 카테고리 기반 필터 기능 구현 후, 게임 주제의 레슨 데이터도 따로 구성해 필터 테스트에 활용하였습니다.
 
-<img src="screenshots/gameCategory.png" style="width: 200px;">
+<img src="screenshots/gameCategory.png" style="width: 250px;">
 
 ---
 
